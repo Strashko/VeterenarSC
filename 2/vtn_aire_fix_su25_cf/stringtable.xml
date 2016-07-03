@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project name="Arma3">
+	<Package name="VTN">
+		<Container name="VTN_AIRE">
+			<Key ID="STR_DN_VTN_SU25">
+				<German>Su-25</German>
+				<English>Su-25</English>
+				<Italian>Su-25</Italian>
+				<Spanish>Su-25</Spanish>
+				<French>Su-25</French>
+				<Czech>Su-25</Czech>
+				<Russian>Су-25</Russian>
+				<Polish>Su-25</Polish>
+				<Hungarian>Su-25</Hungarian>
+			</Key>
+		</Container>
+	</Package>
+</Project>
